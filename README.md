@@ -1,1 +1,1 @@
-Student registration form
+Student registration form/management system
